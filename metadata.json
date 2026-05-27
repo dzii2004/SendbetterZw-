@@ -1,0 +1,6 @@
+{
+  "name": "SendBetter ZW",
+  "description": "Compare exchange rates and remittance fees to Zimbabwe with real-time calculations, alerts, and an AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
